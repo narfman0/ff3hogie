@@ -32,10 +32,10 @@ Func Update()
     ;If ColorInWindow($hWnd, $cgearColor) Then
 	$xTarget = 0
     $yTarget = 0
-    $target = _ImageSearchArea("inBattle.bmp", 1, $clientSize[0], $clientSize[1], $clientSize[2], $clientSize[3], $xTarget, $yTarget, 50)
+    $target = _ImageSearchArea("inBattle.bmp", 1, $clientSize[0], $clientSize[1], $clientSize[2], $clientSize[3], $xTarget, $yTarget, 100)
 	$xPostFight = 0
     $yPostFight = 0
-    $postFight = _ImageSearchArea("postFight.bmp", 1, $clientSize[0], $clientSize[1], $clientSize[2], $clientSize[3], $xPostFight, $yPostFight, 50)
+    $postFight = _ImageSearchArea("postFight.bmp", 1, $clientSize[0], $clientSize[1], $clientSize[2], $clientSize[3], $xPostFight, $yPostFight, 100)
 
 	If $postFight Then
 	    ;MouseMove($xPostFight, $yPostFight, 0)

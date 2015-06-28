@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="18">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"slot1"</Description>
+      <LastState Value="9999" Activated="1" RealAddress="012F216C"/>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FF3_Win32.exe+17216C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"slot2"</Description>
+      <LastState Value="9999" Activated="1" RealAddress="012F2464"/>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FF3_Win32.exe+172464</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"slot3"</Description>
+      <LastState Value="9999" Activated="1" RealAddress="012F275C"/>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FF3_Win32.exe+17275C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"slot4"</Description>
+      <LastState Value="9999" Activated="1" RealAddress="012F2A54"/>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FF3_Win32.exe+172A54</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"money"</Description>
+      <LastState Value="99999" Activated="1" RealAddress="012F3A30"/>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FF3_Win32.exe+173A30</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
